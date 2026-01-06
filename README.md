@@ -2,6 +2,7 @@
 #### 
 This project focuses on evaluating the overall performance of the website to generate actionable insights. It examines the high cart abandonment rate, identifies possible causes, and assesses how website accessibility and ease of navigation impact user behavior. Additionally, the project analyzes how cart abandonment affects sales performance and total website visits, with the goal of highlighting areas for improvement and optimization.
 
+
 #### data source 
 the primary data set used for this project is web_design.pbix containing detailed information about the project
 
